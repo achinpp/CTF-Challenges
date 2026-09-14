@@ -1,0 +1,26 @@
+﻿From: Security Operations Center <soc@evilcorp.local>
+To: All Employees <employees@evilcorp.local>
+Subject: Incident Notice: Suspicious Email Under Investigation
+Date: Fri, 17 Apr 2026 09:15:00 +0530
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+The Security Operations Center is currently investigating a
+suspicious email reported by several employees earlier today.
+
+If you received an unexpected account verification or password
+reset message, do not interact with it until the investigation
+has been completed.
+
+The reported message has been preserved as evidence for the
+incident response team.
+
+If you believe you received the suspicious message, please
+contact the Security Operations Center immediately.
+
+Regards,
+
+Security Operations Center
+Evil Corp

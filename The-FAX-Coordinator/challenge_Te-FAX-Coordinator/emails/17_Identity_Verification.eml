@@ -1,0 +1,66 @@
+﻿From: Evil Corp Identity Services <identity-services@evilcorp-security.com>
+Reply-To: support@evilcorp-security.com
+To: Technology Division <technology@evilcorp.local>
+Subject: Action Required: Employee Account Verification
+Date: Fri, 17 Apr 2026 08:35:00 +0530
+Message-ID: <account-verification-87421@evilcorp-security.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body style="margin:0;background-color:#f1f3f5;font-family:Arial,sans-serif;color:#222222;">
+
+<div style="max-width:620px;margin:30px auto;background-color:#ffffff;border:1px solid #d9dde2;">
+
+    <div style="background-color:#17263a;color:#ffffff;padding:22px 28px;">
+        <h2 style="margin:0;">Evil Corp</h2>
+        <p style="margin:6px 0 0;color:#c8d2df;">
+            Identity and Access Management
+        </p>
+    </div>
+
+    <div style="padding:28px;">
+
+        <h3 style="margin-top:0;">Employee Account Verification Required</h3>
+
+        <p>Hello,</p>
+
+        <p>
+            As part of a scheduled identity platform update, employees
+            within the Technology Division must verify their account
+            information.
+        </p>
+
+        <p>
+            Accounts that are not verified before
+            <strong>18:00 today</strong> may experience temporary access
+            restrictions.
+        </p>
+
+        <p style="margin:28px 0;">
+            <a href="http://evilcorp-idp.duckdns.org/"
+               style="display:inline-block;background-color:#17263a;
+                      color:#ffffff;text-decoration:none;padding:13px 22px;
+                      border-radius:4px;">
+                Verify Employee Account
+            </a>
+        </p>
+
+        <p>
+            This verification applies to corporate email, VPN, and
+            internal application access.
+        </p>
+
+        <p>
+            Regards,<br><br>
+            Identity Services<br>
+            Evil Corp
+        </p>
+
+        <hr style="border:0;border-top:1px solid #dddddd;margin:25px 0;">
+
+    </div>
+</div>
+
+</body>
+</html>
