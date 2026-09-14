@@ -1,0 +1,17 @@
+2024-12-31T23:59:53Z INFO relay-07 supervisor start build=07.12 pid=604
+2024-12-31T23:59:56Z INFO relay-07 journal replay checkpoint=1735689592 segment=18
+2025-01-01T00:00:02Z INFO relay-07 clock discipline offset_ms=-37 source=upstream-2
+2025-01-01T00:00:14Z INFO relay-07 transport reconnect peer=lantern-east backlog=5
+2025-01-01T00:00:47Z INFO relay-07 spool maintenance expires_at=1735689780 pending=5
+2025-01-01T00:00:58Z INFO relay-07 supervisor tick=1735689658 worker=idle
+2025-01-01T00:01:00Z INFO relay-07 window lease acquired generation=1735689660 queue=courier
+2025-01-01T00:01:01Z INFO relay-07 courier queued id=BL-001 window_ref=w-19 seq=0
+2025-01-01T00:01:02Z INFO relay-07 courier queued id=BL-002 window_ref=w-19 seq=1
+2025-01-01T00:01:02Z WARN relay-07 courier nonce collision detected for relay window ref=w-19
+2025-01-01T00:01:03Z INFO relay-07 courier queued id=BL-003 window_ref=w-19 seq=2
+2025-01-01T00:01:04Z INFO relay-07 courier queued id=BL-004 window_ref=w-19 seq=3
+2025-01-01T00:01:05Z INFO relay-07 courier queued id=BL-005 window_ref=w-19 seq=4
+2025-01-01T00:01:06Z INFO relay-07 transport flush acknowledged count=5 ref=w-19
+2025-01-01T00:01:09Z INFO relay-07 window lease released generation=1735689669 queue=courier
+2025-01-01T00:01:12Z WARN relay-07 audit uplink lost; local spool retained
+2025-01-01T00:01:15Z INFO relay-07 supervisor tick=1735689675 worker=draining

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "BL-001",
+    "relay": "black-lantern-relay-07",
+    "server_time_hint": "2025-01-01 00:00-00:02 UTC window",
+    "window_ref": "w-19",
+    "sequence": 0,
+    "nonce_hex": "424c523037000001",
+    "ciphertext_hex": "5378b87d5530e23280e9651b322c4919a0636ca49b07fbb52a0b754aad5f1dbe440509a098ca5e3f6b9dde6f4c4951"
+  },
+  {
+    "id": "BL-002",
+    "relay": "black-lantern-relay-07",
+    "server_time_hint": "2025-01-01 00:00-00:02 UTC window",
+    "window_ref": "w-19",
+    "sequence": 1,
+    "nonce_hex": "424c523037000001",
+    "ciphertext_hex": "5378b87d5528fd28ff8137442131480fa0226df49e05ecb57a1b7542ec400ab5095002b582d21b206ad2c266455b5bc0995a26960d01"
+  },
+  {
+    "id": "BL-003",
+    "relay": "black-lantern-relay-07",
+    "server_time_hint": "2025-01-01 00:00-00:02 UTC window",
+    "window_ref": "w-19",
+    "sequence": 2,
+    "nonce_hex": "424c523037000001",
+    "ciphertext_hex": "5378b87d5528fd28ff8137443e375915ac6570f0da01e0b3321e7e49e81903be4a4418a884d01b2e6ad3ca6352454d84d413189b070426b114e3b9859b66d4ae16820f633fdb99cd0e61ee11b8cbf733faaa5b25e963d1b456303add5b9d8febee49508cb58bafea72f86dfcd968735e9ff9a47474ef0383e5a947edc21a2fbf20d31e3f6538918b6fcaa567fdcb92cc21df33cacf959d813abd715852461128a5005e6975d5cbe74086f24b6dd1b98f3d6aab4b1dec6aff0de228c22f628511"
+  },
+  {
+    "id": "BL-004",
+    "relay": "black-lantern-relay-07",
+    "server_time_hint": "2025-01-01 00:00-00:02 UTC window",
+    "window_ref": "w-19",
+    "sequence": 3,
+    "nonce_hex": "424c523037000001",
+    "ciphertext_hex": "5378b87d5530e23280e9691b3031445bb66a71f49701f6a47a127f58e85d4fa5415703b48cd61b236acfd862005c5d8e805624"
+  },
+  {
+    "id": "BL-005",
+    "relay": "black-lantern-relay-07",
+    "server_time_hint": "2025-01-01 00:00-00:02 UTC window",
+    "window_ref": "w-19",
+    "sequence": 4,
+    "nonce_hex": "424c523037000001",
+    "ciphertext_hex": "5378b87f5e30e62f80e9691b253b5114b5676aa4940becb57a0d7543e24f0ab5094709a784cc5e6d61d8dc664f5145858047"
+  }
+]
