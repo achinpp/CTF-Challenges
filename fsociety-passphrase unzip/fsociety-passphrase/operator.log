@@ -1,0 +1,30 @@
+[02:14:07] [node] node-3 initialization complete; mode=local
+[02:14:08] [auth] subsystem online; credential cache disabled
+[02:14:08] [auth] normalization policy: lowercase
+[02:14:09] [store] mounted workspace snapshot; journal clean
+[02:14:09] [crypto] digest algorithm initialized: sha256
+[02:14:11] [tty] operator session established on pts/2
+[02:14:18] [queue] pending envelopes: 1
+[02:14:24] [clock] monotonic clock check passed
+[02:14:37] [auth] credential source: operator recall; persistence=off
+[02:14:52] [net] uplink unavailable; spool remains local
+[02:15:03] [crypto] digest output mode: raw bytes; width=32
+[02:15:17] [store] temporary receipt removed
+[02:15:29] [auth] credential text encoding: utf-8
+[02:15:44] [watch] workspace watcher idle
+[02:16:02] [transport] wire encoding selected: base64
+[02:16:19] [queue] envelope priority unchanged
+[02:16:35] [auth] embedded whitespace rejected; single credential token required
+[02:16:56] [node] heartbeat acknowledged locally
+[02:17:12] [crypto] stream operation selected: xor/repeating
+[02:17:28] [tty] terminal resize ignored by spooler
+[02:17:42] [auth] local salt profile: 31337
+[02:17:49] [store] spool capacity check passed
+[02:18:01] [auth] separator policy: colon
+[02:18:08] [queue] retry timer cancelled; manual dispatch pending
+[02:18:19] [crypto] digest input fields: normalized credential, salt text
+[02:18:27] [node] diagnostics retention: current session only
+[02:18:36] [crypto] stream key source: digest output; initial key offset=0
+[02:18:43] [transport] payload staged as transmission.enc; no envelope header
+[02:18:51] [auth] credential buffer cleared
+[02:19:04] [tty] operator session closed
